@@ -8,6 +8,6 @@ chmod +x /usr/local/bin/see
 
 ssh into the remote servers using
 
-see <server-name> or see <server-ip>
+see {server-name} or see {server-ip}
 
 
